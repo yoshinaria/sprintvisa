@@ -125,7 +125,7 @@ cnn.Open "Provider=Microsoft.Jet.OLEDB.4.0;Data Source=" & strDBPath & ";"
     border-right:1px solid #fff;
     border-left:1px solid #fff;
     background:#f0f0f0;
-    background:
+    /*background:
         -webkit-gradient(
         linear,
         left bottom,
@@ -133,7 +133,7 @@ cnn.Open "Provider=Microsoft.Jet.OLEDB.4.0;Data Source=" & strDBPath & ";"
         color-stop(0.09, rgb(240,240,240)),
         color-stop(0.55, rgb(227,227,227)),
         color-stop(0.78, rgb(240,240,240))
-        );
+        );*/
     }
     #navigation2 ul li a:hover,
 #navigation2 ul li.selected a{
