@@ -302,7 +302,9 @@ UNDER CONSTRUCTION</h1>
         <div class="row">
     <div style="width:70%; float:left;">
     <div style=" width:95%; margin-left:40px; padding-bottom:15px;border-bottom: 1px solid #e5e5e5;">
-    <img class="rsTmb" src="sendbinary.asp?path=aa2.gif&wit=690&kalite=100" />
+    <!--<img class="rsTmb" src="sendbinary.asp?path=aa2.gif&wit=690&kalite=100" />-->
+                <img class="rsTmb" src="img/3steps.jpg" />
+
     </div>
        <% 
     
