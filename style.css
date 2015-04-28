@@ -218,7 +218,7 @@ h4,
 h5,
 h6 {
    font: 700 20px/1.6 "museo-sans", sans-serif;
-  color: #1485bf;
+  color: #43466c;
   font-weight: 800;
   line-height: 1.2em;
   font-style: normal;
@@ -293,7 +293,7 @@ background:#fff;
   z-index: 999;
 }
 h11 {
-  color: #1485bf;
+  color: #43466c;
   font: 700 26px/1.6 "museo-sans", sans-serif, bold;
   letter-spacing: 0em;
   margin-bottom: 20px;
@@ -663,8 +663,8 @@ header {
 .nav-collapse_ .nav > li:hover,
 .nav-collapse_ .nav > li.active,
 .nav-collapse_ .nav > li.active:hover {
-  border-left: #003787 1px solid;
-  border-right: #003787 1px solid;
+  border-left: #e5e5e5 1px solid;
+  border-right: #e5e5e5 1px solid;
   -webkit-transition: 0.5s;
   -moz-transition: 0.5s;
   -o-transition: 0.5s;
@@ -678,7 +678,7 @@ header {
   -webkit-box-shadow: none;
   -moz-box-shadow: none;
   box-shadow: none;
-  background: #003787;
+  background: #e5e5e5;
   color: #ffffff;
   -webkit-transition: 0.5s;
   -moz-transition: 0.5s;
@@ -695,9 +695,9 @@ header {
   zoom: 1;
   z-index: 9;
   margin: 0;
-  background: #003787;
-  border-left: #003787 1px solid;
-  border-right: #003787 1px solid;
+  background: #e5e5e5;
+  border-left: #e5e5e5 1px solid;
+  border-right: #e5e5e5 1px solid;
 }
 .nav-collapse_ .nav ul li {
   margin: 0;
@@ -706,8 +706,8 @@ header {
 .nav-collapse_ .nav ul li a {
   display: block;
   padding: 13px 10px 14px 10px;
-  background: #003787;
-  border-bottom: #003787 1px solid;
+  background: #e5e5e5;
+  border-bottom: #e5e5e5 1px solid;
 }
 .nav-collapse_ .nav > li > ul li > a:hover,
 .nav-collapse_ .nav > li > ul li.sfHover > a {
@@ -719,15 +719,15 @@ header {
   left: 189px;
   top: -1px;
   width: 100%;
-  background: #003787;
-  border-left: #003787 1px solid;
-  border-right: #003787 1px solid;
+  background: #e5e5e5;
+  border-left: #e5e5e5 1px solid;
+  border-right: #e5e5e5 1px solid;
 }
 .nav-collapse_ .nav ul ul li a {
   display: block;
   padding: 14px 10px 14px 10px;
-  background: #003787;
-  border-bottom: #003787 1px solid;
+  background: #e5e5e5;
+  border-bottom: #e5e5e5 1px solid;
 }
 /**/
 /* slider */
