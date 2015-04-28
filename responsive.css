@@ -80,7 +80,7 @@
 }
 @media (min-width: 1270px) {
   .row {
-    margin-left: -30px;
+    /*margin-left: -30px; */
     *zoom: 1;
   }
   .row:before,
@@ -399,6 +399,8 @@
   .row-fluid .thumbnails {
     margin-left: 0;
   }
+
+
 }
 @media (min-width: 768px) and (max-width: 979px) {
   .row {
@@ -990,3 +992,4 @@
     overflow: visible !important;
   }
 }
+  
