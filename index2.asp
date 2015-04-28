@@ -267,7 +267,18 @@ document.product.id_style.options[j].selected = true;
     <h1 align="center" class="b2">WEBSITE<br><br>
 
 UNDER CONSTRUCTION</h1>
+
+    
+
+
           <div class="wrap-sTab">
+
+
+
+            <div class="container">
+              <div class="row">
+                <div class="navbar navbar_ clearfix row">
+                   <div class="navbar-inner span12">   
                 
                 <label>Citizenship</label>
               
@@ -284,6 +295,12 @@ UNDER CONSTRUCTION</h1>
                     
            
       </form>
+   </div>
+</div>
+</div>
+</div>
+
+
     </div>
         
         
@@ -301,9 +318,9 @@ UNDER CONSTRUCTION</h1>
      <div class="container" style="background-color:#FFFFFF; padding-top:15px;">
         <div class="row">
     <div style="width:70%; float:left;">
-    <div style=" width:95%; padding-bottom:15px;border-bottom: 1px solid #e5e5e5;">
+    <div style=" width:95%; margin-left:40px; padding-bottom:15px;border-bottom: 1px solid #e5e5e5;">
     <!--<img class="rsTmb" src="sendbinary.asp?path=aa2.gif&wit=690&kalite=100" />-->
-                <img class="rsTmb" src="img/3steps.jpg" width: "690px"/>
+                <img class="rsTmb" src="img/3steps.jpg" />
 
     </div>
        <% 
