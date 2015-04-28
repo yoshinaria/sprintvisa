@@ -288,9 +288,9 @@ UNDER CONSTRUCTION</h1>
         
         
                   <div class="camera_wrap">
-                    <div data-src="img/Entry Exit Visa.jpg"></div>
-                    <div data-src="img/US-customs-007.jpg"></div>
-                    <div data-src="img/628x471.jpg"></div>
+                    <div data-src="img/egypt.jpg"></div>
+                    <div data-src="img/thai.jpg"></div>
+                    <div data-src="img/dubai.jpg"></div>
                     
                   </div>
                   
